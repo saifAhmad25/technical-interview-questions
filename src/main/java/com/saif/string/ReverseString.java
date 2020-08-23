@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.saif.string.questions;
+package com.saif.string;
 
 /**
  * WAP to Reverse String without using java library

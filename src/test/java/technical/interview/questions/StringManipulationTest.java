@@ -5,7 +5,7 @@ package technical.interview.questions;
 
 import org.junit.Test;
 
-import com.saif.string.questions.ReverseString;
+import com.saif.string.ReverseString;
 
 import static org.junit.Assert.*;
 
