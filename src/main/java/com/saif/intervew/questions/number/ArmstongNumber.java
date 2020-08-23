@@ -22,9 +22,9 @@ public class ArmstongNumber {
 		// Call method to find the Armstrong number
 		boolean isArmstrong = checkArmstrongNumber(num);
 		if (isArmstrong)
-			System.out.println("Number is Armstrong "+ num);
+			System.out.println("Number is Armstrong: "+ num);
 		else {
-			System.out.println("Number is not Armstrong "+ num);
+			System.out.println("Number is not Armstrong: "+ num);
 			}
 		}
 
