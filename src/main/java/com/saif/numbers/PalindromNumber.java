@@ -1,7 +1,7 @@
 /**
  * 
  */
-package com.saif.intervew.questions.number;
+package com.saif.numbers;
 
 /**
  * WAP to determine whether an integer is a palindrome. An integer is a
