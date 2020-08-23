@@ -28,7 +28,7 @@ public class ReverseString {
 	 * @param str
 	 * @return
 	 */
-	private static String reverseString(String str) {
+	public static String reverseString(String str) {
 		String reverseString = "";
 		if (str.length() < 1)
 			return "";
